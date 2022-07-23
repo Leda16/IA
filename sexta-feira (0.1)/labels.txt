@@ -1,0 +1,9 @@
+close|notepad
+open|notepad
+close|opera
+time|getTime
+open|opera
+time|getDate
+open|fivem
+close|fivem
+weather|getWeather
